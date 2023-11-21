@@ -1,6 +1,6 @@
 import React from "react";
 import { updates, learn } from "../../assets";
-import MediaScreen from "./media";
+import MediaScreen from "./Media";
 import { Link } from "react-router-dom";
 
 const LatestUpdates = () => {
